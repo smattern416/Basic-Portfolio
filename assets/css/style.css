@@ -1,4 +1,12 @@
-.yellow{
-    color: yellow;
+header{
+    padding:20px;
+    margin-left: 10%;
+    background-color: darkgreen;
+    color: white;
 
+}
+.content{
+    margin-left: 10%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
 }
