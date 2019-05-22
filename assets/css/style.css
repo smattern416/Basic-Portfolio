@@ -1,5 +1,5 @@
 body{
-    background-color: grey;
+    background-color: #EEEEEE;
 
 }
 header{
@@ -10,13 +10,14 @@ header{
     margin-left: 10%;
     background-color: #4AAAA4;
     color: white;
-    width: 25%;
+    width: 30%;
 }
 ul{
     list-style-type: none;
     margin: 10px;
     padding: 10px;
     overflow: hidden;
+    
 }
 li{
     float: right;
@@ -30,6 +31,7 @@ li{
 h2{
     color: #4AAAA4;
     margin: 20px;
+    padding-top: 25px;
 }
 img{
     float: left;
@@ -37,4 +39,5 @@ img{
 }
 .bio{
     line-height: 30px;
+    margin: 20px;
 }
