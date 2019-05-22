@@ -8,7 +8,7 @@ header{
 .name{
     padding:20px;
     margin-left: 10%;
-    background-color: darkgreen;
+    background-color: #4AAAA4;
     color: white;
     width: 25%;
 }
@@ -26,6 +26,10 @@ li{
     margin-left: 10%;
     font-family: Georgia, 'Times New Roman', Times, serif;
     background-color: white;
+}
+h2{
+    color: #4AAAA4;
+    margin: 20px;
 }
 img{
     float: left;
