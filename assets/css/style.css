@@ -1,5 +1,5 @@
 body{
-    background-color: #EEEEEE;
+    background-image: url(/Users/stephaniemattern/Desktop/Basic-Portfolio/assets/images/stripes-light.png);
     margin: 0;
     color: #777777
 }
@@ -37,7 +37,6 @@ ul{
     margin: 0 0 20px 0;
     padding: 30px;
     overflow: hidden;
-    
 }
 li{
     float: right;
