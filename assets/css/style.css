@@ -20,6 +20,7 @@ nav {
     margin: 0 auto;
 
 }
+
  .container {
     width: 960px; 
     margin: 0 auto;
@@ -51,6 +52,9 @@ h2{
     color: #4AAAA4;
     margin: 20px;
     padding-top: 25px;
+}
+hr{
+    width: 95%;
 }
 img{
     float: left;
@@ -102,3 +106,53 @@ form{
     color: white;
     font-size: medium;
 }
+.text-block {
+    bottom: 20px;
+    right: 20px;
+    background-color: #4AAAA4;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+.thumbnail1{
+    height: 150px;
+    width: 200px;
+    overflow: hidden;
+    float: left;
+    padding: 10px;
+}
+.thumbnail2{
+    height: 150px;
+    width: 200px;
+    overflow: hidden;
+    padding: 10px;
+}
+.thumbnail3{
+    height: 150px;
+    width: 200px;
+    overflow: hidden;
+    float: left;
+    padding: 10px;
+}
+.thumbnail4{
+    height: 150px;
+    width: 200px;
+    overflow: hidden;
+    padding: 10px;
+}
+.thumbnail5{
+    height: 150px;
+    width: 200px;
+    overflow: hidden;
+    float: left;
+    padding: 10px;
+}
+.text-block {
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+    background-color: black;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
