@@ -78,6 +78,26 @@ input{
     margin: 8px 0;
     box-sizing: border-box;
 }
+.container{
+    padding-bottom: 200px;
+}
 form{
     margin: 8px 0 0 20px;
+}
+.form_box{
+    height:225px;
+    margin: 0;
+    padding: 0;
+}
+.message_box{
+    height:200px;
+    margin: 0;
+    padding: 0;
+}
+.submit_button{
+    background-color:  #4AAAA4;
+    width: 10%;
+    margin: 8px 0 30 20px;
+    color: white;
+    font-size: medium;
 }
